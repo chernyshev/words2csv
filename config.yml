@@ -1,0 +1,5 @@
+puzzle_english:
+  login:
+  password: 
+  csv_filename: puzzle.csv
+
